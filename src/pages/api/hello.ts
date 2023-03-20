@@ -10,6 +10,7 @@ export default function handler(
   req: NextApiRequest,
   res: NextApiResponse<Data>
 ) {
+  // This is feature 3
   //This is feature 2
   res.status(200).json({ name: 'abc feature 1' })
 }
