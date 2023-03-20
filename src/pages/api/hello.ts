@@ -14,6 +14,9 @@ export default function handler(
   // This is feature 3
   //This is feature 5
 
+  // This is feature 6
   //This is feature 2
   res.status(200).json({ name: 'abc feature 1' })
 }
+//End feature 6
+//Featuer 6666
